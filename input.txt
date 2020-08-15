@@ -1,0 +1,5 @@
+x 7 9 x 1
+x x 10 15 x
+x 10 x 11 x
+x x x x 6
+x x x 2 x
